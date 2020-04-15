@@ -35,7 +35,8 @@ yarn
 yarn run electron:serve
 
 # git提交
-
+git add .
+git commit -m "init"
 ```
 
 
